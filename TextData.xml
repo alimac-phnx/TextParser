@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Text xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <lang>en</lang>
+  <TextContent>
+    <string>Remove from the text all words of a given length that starts with a consonant letter.
+
+</string>
+    <string>In some sentence of the text, replace the words of a given length with the specified substring, the length of which may not match the length of the word!
+</string>
+    <string>Stop words often occur in texts.</string>
+    <string>Stop words or noise words include prepositions, conjunctions, interjections, particles and other parts that are often found in the text, but do not carry a semantic load they are redundant?
+</string>
+    <string>Remove stopwords from the text.
+</string>
+    <string />
+  </TextContent>
+</Text>
